@@ -19,4 +19,4 @@ steps:
     dockerfile: "Dockerfile"
     stage: "build"
     build_arguments:
-                              - TEST_KEY=lolec
+                    					         	 - TEST_KEY=lolec
